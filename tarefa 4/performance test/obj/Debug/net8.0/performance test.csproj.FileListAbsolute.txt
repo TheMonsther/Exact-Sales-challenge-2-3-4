@@ -1,0 +1,14 @@
+R:\performance test\bin\Debug\net8.0\performance test.exe
+R:\performance test\bin\Debug\net8.0\performance test.deps.json
+R:\performance test\bin\Debug\net8.0\performance test.runtimeconfig.json
+R:\performance test\bin\Debug\net8.0\performance test.dll
+R:\performance test\bin\Debug\net8.0\performance test.pdb
+R:\performance test\obj\Debug\net8.0\performance test.GeneratedMSBuildEditorConfig.editorconfig
+R:\performance test\obj\Debug\net8.0\performance test.AssemblyInfoInputs.cache
+R:\performance test\obj\Debug\net8.0\performance test.AssemblyInfo.cs
+R:\performance test\obj\Debug\net8.0\performance test.csproj.CoreCompileInputs.cache
+R:\performance test\obj\Debug\net8.0\performance test.dll
+R:\performance test\obj\Debug\net8.0\refint\performance test.dll
+R:\performance test\obj\Debug\net8.0\performance test.pdb
+R:\performance test\obj\Debug\net8.0\performance test.genruntimeconfig.cache
+R:\performance test\obj\Debug\net8.0\ref\performance test.dll
